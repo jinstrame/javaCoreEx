@@ -1,4 +1,4 @@
-package com.epam.evgeniibaibakov.javaXmlNovice;
+package tutorial.xml;
 
 import org.junit.Before;
 import org.junit.Test;

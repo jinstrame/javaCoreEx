@@ -1,4 +1,4 @@
-package com.epam.evgeniibaibakov.javaXmlNovice;
+package tutorial.xml;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

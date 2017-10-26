@@ -1,4 +1,4 @@
-package com.epam.evgeniibaibakov.javaXmlNovice;
+package tutorial.xml;
 
 import org.springframework.stereotype.Component;
 
@@ -16,11 +16,11 @@ public class JaxBImpl implements JaxB {
 
     @Override
     public void marshalClass(SimplePerson simplePerson, OutputStream outputStream) throws JAXBException {
-
+        throw new UnsupportedOperationException();
     }
 
     @Override
     public SimplePerson unmarshalClass(InputStream stream) throws JAXBException {
-        return null;
+        throw new UnsupportedOperationException();
     }
 }
